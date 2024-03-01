@@ -14,8 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         titleLabel.text = "Ilya"
+        view.backgroundColor = UIColor.blue
     }
-
-
+    
 }
 
